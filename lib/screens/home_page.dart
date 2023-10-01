@@ -44,10 +44,10 @@ class _HomePageState extends State<HomePage> {
                         ..style = PaintingStyle.stroke
                         ..strokeWidth = 4.0
                         ..color = const Color.fromARGB(153, 102, 160, 241),
-                      boxLeftOff: 4.5,
-                      boxBottomOff: 3,
-                      boxRightOff: 4.5,
-                      boxTopOff: 3,
+                      boxLeftOff: 0,
+                      boxBottomOff: 0,
+                      boxRightOff: 0,
+                      boxTopOff: 0,
                       boxHeight: MediaQuery.of(context).size.height / 2.75,
                       getRawData: (value) {
                         inspect(value);
