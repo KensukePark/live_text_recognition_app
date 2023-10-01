@@ -8,6 +8,6 @@ Dart 3.0.2 <br>
 
 # Preview
 <p align="left">
-<img src="img_01.png" width="225" height="400"/>
+<img src="img_01.jpg" width="225" height="400"/>
 <img src="img_02.jpg" width="225" height="400"/>
 </p>
