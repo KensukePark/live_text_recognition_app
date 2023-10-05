@@ -1,4 +1,4 @@
-# trading_stuff_app
+# live_text_recognition_app
 Make App that recognizes text in real time using flutter
 
 # Environment
